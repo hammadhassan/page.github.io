@@ -23,15 +23,10 @@ h1 {
     margin: 0 auto;
     width: 375px;
 }
-/*.head {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 12px;
-}*/
 .info1 {
     color: #99CA3C;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 27px;
     font-style: oblique;
     float: left;
     margin-left: 25px;
@@ -39,7 +34,7 @@ h1 {
 b {
     font-weight: bold;
     font-style: oblique;
-    font-size: 30px;
+    font-size: 27px;
     color: #0066B3;
 }
 .info {
@@ -49,8 +44,66 @@ b {
 .info2 {
     color: #99CA3C;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 27px;
     font-style: oblique;
+}
+.info3 {
+    color: #99CA3C;
+    font-weight: bold;
+    font-size: 27px;
+    font-style: oblique;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: left;
+}
+.ban {
     float: right;
-    margin-right: 25px;
+    margin-right: 14px;
+    margin-top: -215px;
+    position: relative;
+}
+.roll {
+    float: right;
+    margin-right: 100px;
+    margin-top: -49px;
+}
+.info4 {
+    color: #99CA3C;
+    font-weight: bold;
+    font-size: 27px;
+    font-style: oblique;
+    margin-left: 25px;
+    float: left;
+    margin-top: 10px;
+}
+.info5 {
+    color: #99CA3C;
+    font-weight: bold;
+    font-size: 27px;
+    font-style: oblique;
+    margin-left: 25px;
+    float: left;
+    margin-top: 10px;
+ }
+.info6 {
+    color: #99CA3C;
+    font-weight: bold;
+    font-size: 27px;
+    font-style: oblique;
+    margin-left: 25px;
+    float: left;
+    margin-top: 10px;
+ }
+    .info7 {
+    color: #99CA3C;
+    font-weight: bold;
+    font-size: 27px;
+    font-style: oblique;
+    margin-left: 25px;
+    float: left;
+    margin-top: 10px;
+}
+.percnt {
+    margin-top: 20px;
+    
 }
