@@ -53,14 +53,16 @@ b {
     font-size: 27px;
     font-style: oblique;
     margin-left: 25px;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
     float: left;
 }
 .ban {
     float: right;
-    margin-right: 14px;
-    margin-top: -215px;
+    /*margin-right: 14px;
+    margin-top: -215px;*/
     position: relative;
+    margin-right: 3%;
+    margin-top: -24%;
 }
 .roll {
     float: right;
@@ -74,7 +76,7 @@ b {
     font-style: oblique;
     margin-left: 25px;
     float: left;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
 }
 .info5 {
     color: #99CA3C;
@@ -83,7 +85,7 @@ b {
     font-style: oblique;
     margin-left: 25px;
     float: left;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
  }
 .info6 {
     color: #99CA3C;
@@ -92,18 +94,25 @@ b {
     font-style: oblique;
     margin-left: 25px;
     float: left;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
  }
-    .info7 {
+.info7 {
     color: #99CA3C;
     font-weight: bold;
     font-size: 27px;
     font-style: oblique;
     margin-left: 25px;
     float: left;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
 }
 .percnt {
     margin-top: 20px;
-    
+}
+table, td, th, tr {
+    border: 2px double black;
+    /*background-color: lightblue;*/
+    /*margin: 0 auto;
+    width: 300px;*/
+    font-style: oblique;
+    text-align: center;
 }
